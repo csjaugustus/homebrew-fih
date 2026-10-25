@@ -1,8 +1,8 @@
 class Fih < Formula
   desc "Sliding, tiling window manager for macOS"
   homepage "https://github.com/csjaugustus/fih"
-  url "https://github.com/csjaugustus/fih/releases/download/v0.1.8/fih-0.1.8-macos-arm64.tar.gz"
-  sha256 "390a315d4a8923c9bb21c91bba40f8410fd6d210001e27d7fdf87a49994e40d9"
+  url "https://github.com/csjaugustus/fih/releases/download/v0.1.9/fih-0.1.9-macos-arm64.tar.gz"
+  sha256 "5125516d7dceaa181a64a80433280bc66031d7bbd5299e10c473656d2328a776"
   license "MIT"
 
   depends_on arch: :arm64
